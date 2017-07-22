@@ -1,9 +1,4 @@
-C:\Users\admin\Desktop\AntiDebug\AntiDebug\AntiDebug\bin\Debug\AntiDebug.exe
-C:\Users\admin\Desktop\AntiDebug\AntiDebug\AntiDebug\bin\Debug\AntiDebug.pdb
-C:\Users\admin\Desktop\AntiDebug\AntiDebug\AntiDebug\bin\Debug\Mono.Cecil.dll
-C:\Users\admin\Desktop\AntiDebug\AntiDebug\AntiDebug\obj\Debug\AntiDebug.csprojResolveAssemblyReference.cache
-C:\Users\admin\Desktop\AntiDebug\AntiDebug\AntiDebug\obj\Debug\AntiDebug.Form1.resources
-C:\Users\admin\Desktop\AntiDebug\AntiDebug\AntiDebug\obj\Debug\AntiDebug.Properties.Resources.resources
-C:\Users\admin\Desktop\AntiDebug\AntiDebug\AntiDebug\obj\Debug\AntiDebug.csproj.GenerateResource.Cache
-C:\Users\admin\Desktop\AntiDebug\AntiDebug\AntiDebug\obj\Debug\AntiDebug.exe
-C:\Users\admin\Desktop\AntiDebug\AntiDebug\AntiDebug\obj\Debug\AntiDebug.pdb
+E:\GitHub\A\AntiDebug\obj\Debug\AntiDebug.csprojResolveAssemblyReference.cache
+E:\GitHub\A\AntiDebug\obj\Debug\AntiDebug.fMain.resources
+E:\GitHub\A\AntiDebug\obj\Debug\AntiDebug.Properties.Resources.resources
+E:\GitHub\A\AntiDebug\obj\Debug\AntiDebug.csproj.GenerateResource.Cache
